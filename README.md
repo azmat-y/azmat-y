@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hello everyone, I am Azmat and my current interests are compiler development and contributing to opensource. Presently I will be focuing on static analysis tools and some user end applications.
+
 <!--
 **azmat-y/azmat-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
